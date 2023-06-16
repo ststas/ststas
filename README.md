@@ -14,14 +14,10 @@ https://ststas.github.io/projects/mesto/
 
 - 🌱 Currently learning React.
 
-Don't hesitate to contact me in case of any collaboration.
+- ⚡ Fun facts about me
+In the past: world famous DJ... and cook at Michelin star restaurant :)
 
-It the past: world famous DJ... :)
-
-
-
-
-
+Don't hesitate to contact me in case of collaboration.
 <!--
 **ststas/ststas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

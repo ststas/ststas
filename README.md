@@ -12,7 +12,7 @@ JAVA SCRIPT:<br>https://ststas.github.io/projects/mesto/</br>
 
 - 🌱 Currently learning React.
 
-- ⚡ Fun facts about me<br>In the past: world famous DJ... and cook at Michelin star restaurant :)</br>
+- ⚡ Fun facts about me: <br>In the past World famous DJ... and cook at Michelin star restaurant :)</br>
 
 Don't hesitate to contact me in case of collaboration.
 <!--

@@ -1,7 +1,7 @@
 ## Hi there 👋. 
 ## I'm Stanislav Zaitsev. Junior Web Developer.
 
-Studying at Yandex.Practicum.
+###Studying at Yandex.Practicum.
 
  - Here's a short list I've done so far:
 

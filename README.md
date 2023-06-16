@@ -11,6 +11,8 @@
 <a href="https://docs.npmjs.com/about-npm"><img src="https://github.com/ststas/ststas/blob/main/npm-logo.png" width="40" height="40"></a>
 <a href="https://webpack.js.org/"><img src="https://github.com/ststas/ststas/blob/main/webpack-icon.svg" width="40" height="40"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  - Here's a short list I've done so far:
 
 HTML & CSS<br>
@@ -28,7 +30,7 @@ JAVA SCRIPT<br>https://ststas.github.io/projects/mesto/</br>
 <a href="https://www.facebook.com/zaitsev.stas"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="40" height="40"></a>
 <a href="https://www.instagram.com/hugegrandma/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ststas/ststas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

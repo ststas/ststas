@@ -3,7 +3,8 @@
 ### Studying at Yandex.Practicum.
 
 ### Languages & Tools
-<a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a/"></a>
+<a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/ststas/ststas/blob/main/CSS3.svg" width="40" height="40"></a>
 
  - Here's a short list I've done so far:
 
@@ -17,7 +18,7 @@ JAVA SCRIPT<br>https://ststas.github.io/projects/mesto/</br>
 - ⚡ Fun facts about me: <br>In the past World famous DJ and cook at Michelin star restaurant :)</br>
 
 ### Don't hesitate to contact me on <br></br>
-<a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>
 <a href="https://t.me/stanislavzaytsev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"></a>
 <a href="https://www.facebook.com/zaitsev.stas"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="40" height="40"></a>
 <a href="https://www.instagram.com/hugegrandma/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"></a>

@@ -6,9 +6,9 @@ Studying at Yandex.Practicum.
  - Here's a short list I've done so far:
 
 HTML & CSS 
-https://ststas.github.io/projects/littlefatboy/
-https://ststas.github.io/projects/russian-travel/
-https://ststas.github.io/
+https://ststas.github.io/projects/littlefatboy/<br></br>
+- https://ststas.github.io/projects/russian-travel/
+- https://ststas.github.io/
 
 JAVA SCRIPT
 https://ststas.github.io/projects/mesto/

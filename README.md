@@ -15,7 +15,8 @@ JAVA SCRIPT<br>https://ststas.github.io/projects/mesto/</br>
 - ⚡ Fun facts about me: <br>In the past World famous DJ... and cook at Michelin star restaurant :)</br>
 
 Don't hesitate to contact me in case of collaboration on <br></br>
-<a href="https://t.me/stanislavzaytsev"><img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>
+<a href="https://t.me/stanislavzaytsev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"></a>
 <a href="https://www.facebook.com/zaitsev.stas"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="40" height="40"></a>
 <a href="https://www.instagram.com/hugegrandma/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"></a>
 <!--

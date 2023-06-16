@@ -12,7 +12,7 @@ JAVA SCRIPT<br>https://ststas.github.io/projects/mesto/</br>
 
 - 🌱 Currently learning React.
 
-- ⚡ Fun facts about me: <br>In the past World famous DJ... and cook at Michelin star restaurant :)</br>
+- ⚡ Fun facts about me: <br>In the past World famous DJ and cook at Michelin star restaurant :)</br>
 
 Don't hesitate to contact me in case of collaboration on <br></br>
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>

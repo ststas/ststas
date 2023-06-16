@@ -2,6 +2,9 @@
 
 ### Studying at Yandex.Practicum.
 
+### Languages & Tools
+<a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a/"></a>
+
  - Here's a short list I've done so far:
 
 HTML & CSS<br>

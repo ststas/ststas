@@ -8,7 +8,7 @@
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/ststas/ststas/blob/main/Javascript-shield.svg" width="40" height="40"></a>
 <a href="https://react.dev/"><img src="https://github.com/ststas/ststas/blob/main/React-icon.svg" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/docs"><img src="https://github.com/ststas/ststas/blob/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"></a>
-<a href="https://docs.npmjs.com/about-npm"><img src="https://github.com/ststas/ststas/blob/main/Npm-logo.svg" width="40" height="40"></a>
+<a href="https://docs.npmjs.com/about-npm"><img src="https://github.com/ststas/ststas/blob/main/npm-logo.png" width="40" height="40"></a>
 
  - Here's a short list I've done so far:
 

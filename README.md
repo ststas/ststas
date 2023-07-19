@@ -18,9 +18,9 @@
 HTML & CSS<br>
 https://ststas.github.io/projects/littlefatboy/</br><br>https://ststas.github.io/projects/russian-travel/</br><br>https://ststas.github.io/</br>
 
-JAVA SCRIPT<br>https://ststas.github.io/projects/mestojava/</br> or 
+JAVA SCRIPT<br>https://ststas.github.io/projects/mestojava/</br> or check rep. <br>https://github.com/ststas/mesto</br>
 
-REACT<br>https://ststas.github.io/projects/mestoreact/</br> or <br>https://github.com/ststas/react-mesto-auth</br>
+REACT<br>https://ststas.github.io/projects/mestoreact/</br> or check rep. <br>https://github.com/ststas/react-mesto-auth</br>
 
 - 🌱 Currently learning React.
 

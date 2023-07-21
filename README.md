@@ -22,7 +22,7 @@ JAVA SCRIPT<br>https://ststas.github.io/projects/mestojava/</br> repository <br>
 
 REACT<br>https://ststas.github.io/projects/mestoreact/</br> repository <br>https://github.com/ststas/react-mesto-auth</br>
 
-- 🌱 Currently learning React.
+- 🌱 Currently learning Node.js.
 
 - ⚡ Fun facts about me: <br>In the past World famous DJ and cook at Michelin star restaurant :)</br>
 

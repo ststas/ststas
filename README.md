@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Stanislav Zaitsev. Web Developer.
+## Hi there 👋. I'm Stanislav Zaytsev. Web Developer.
 
 ### Studying at Yandex.Practicum.
 

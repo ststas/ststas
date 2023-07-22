@@ -24,7 +24,7 @@ REACT<br>https://ststas.github.io/projects/mestoreact/</br> repository <br>https
 
 - 🌱 Currently learning Node.js.
 
-- ⚡ Fun facts about me: <br>In the past World famous DJ and cook at Michelin star restaurant :)</br>
+- ⚡ Fun facts about me: <br>In the past teacher of math, cook at Michelin star restaurant and dj :)</br>
 
 ### Don't hesitate to contact me on 
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>

@@ -2,7 +2,7 @@
 
 ### Studying at Yandex Practicum.
 
-### Stacks & Tools
+### Stack & Tools
 <a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://github.com/ststas/ststas/blob/main/CSS3.svg" width="40" height="40"></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/ststas/ststas/blob/main/javascript-logo.png" width="40" height="40"></a>

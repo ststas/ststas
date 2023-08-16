@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stanislav Zaitsev. Web Developer.
 
-### Studying at Yandex.Practicum.
+### Studying at Yandex Practicum.
 
 ### Stacks & Tools
 <a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>

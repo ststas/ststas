@@ -16,11 +16,15 @@
  - Here's a short list I've done so far:
 
 HTML & CSS<br>
-https://ststas.github.io/projects/littlefatboy/</br><br>https://ststas.github.io/projects/russian-travel/</br><br>https://ststas.github.io/</br>
+https://github.com/ststas/littlefatboy</br><br>https://github.com/ststas/russian-travel</br><br>https://github.com/ststas/how-to-learn-addons</br>
 
-JAVA SCRIPT<br>https://ststas.github.io/projects/mestojava/</br> repository <br>https://github.com/ststas/mesto</br>
+JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 
-REACT<br>https://ststas.github.io/projects/mestoreact/</br> repository <br>https://github.com/ststas/react-mesto-auth</br>
+REACT<br>https://github.com/ststas/react-mesto-auth</br>
+
+NODE & Express<br>https://github.com/ststas/express-mesto-gha</br>
+
+Portfolio<br>https://ststas.github.io</br>
 
 - 🌱 Currently learning Node.js & Express.
 

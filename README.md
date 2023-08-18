@@ -22,7 +22,7 @@ JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 
 REACT<br>https://github.com/ststas/react-mesto-auth</br>
 
-NODE & Express<br>https://github.com/ststas/express-mesto-gha</br>
+NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
 
 PORTFOLIO<br>https://ststas.github.io</br>
 

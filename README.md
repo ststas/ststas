@@ -24,7 +24,7 @@ REACT<br>https://github.com/ststas/react-mesto-auth</br>
 
 NODE & Express<br>https://github.com/ststas/express-mesto-gha</br>
 
-Portfolio<br>https://ststas.github.io</br>
+PORTFOLIO<br>https://ststas.github.io</br>
 
 - 🌱 Currently learning Node.js & Express.
 

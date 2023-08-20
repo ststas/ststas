@@ -20,8 +20,8 @@
 
 HTML & CSS<br>
 https://github.com/ststas/littlefatboy</br><br>
-https://github.com/ststas/russian-trave</br><br>
-https://github.com/ststas/how-to-learn-addons</br>
+https://github.com/ststas/russian-trave</br>
+https://github.com/ststas/how-to-learn-addons
 
 JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 

@@ -19,7 +19,7 @@
 ### Here's a short list I've done so far:
 
 HTML & CSS<br>
-https://github.com/ststas/littlefatboy</br><br>
+https://github.com/ststas/littlefatboy<br>
 https://github.com/ststas/russian-travel</br>
 https://github.com/ststas/how-to-learn-addons
 

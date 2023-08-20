@@ -19,7 +19,9 @@
 ### Here's a short list I've done so far:
 
 HTML & CSS<br>
-https://github.com/ststas/littlefatboy</br><br>https://github.com/ststas/russian-travel</br><br>https://github.com/ststas/how-to-learn-addons</br>
+https://github.com/ststas/littlefatboy</br>
+<br>https://github.com/ststas/russian-travel</br>
+https://github.com/ststas/how-to-learn-addons
 
 JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 

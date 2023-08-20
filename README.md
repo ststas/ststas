@@ -2,7 +2,7 @@
 
 ### Studying at Yandex Practicum.
 
-WEB PORTFOLIO<br>https://ststas.github.io</br>
+### MY PORTFOLIO<br>https://ststas.github.io</br>
 
 ### Stack & Tools
 <a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>

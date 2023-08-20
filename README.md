@@ -2,6 +2,8 @@
 
 ### Studying at Yandex Practicum.
 
+WEB PORTFOLIO<br>https://ststas.github.io</br>
+
 ### Stack & Tools
 <a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://github.com/ststas/ststas/blob/main/CSS3.svg" width="40" height="40"></a>
@@ -23,8 +25,6 @@ JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 REACT<br>https://github.com/ststas/react-mesto-auth</br>
 
 NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
-
-WEB<br>https://ststas.github.io</br>
 
 - 🌱 Currently learning Node.js & Express.
 

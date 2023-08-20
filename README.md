@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ststas&layout=compact)](https://github.com/ststas)
 
- - Here's a short list I've done so far:
+### Here's a short list I've done so far:
 
 HTML & CSS<br>
 https://github.com/ststas/littlefatboy</br><br>https://github.com/ststas/russian-travel</br><br>https://github.com/ststas/how-to-learn-addons</br>

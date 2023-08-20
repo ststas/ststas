@@ -28,7 +28,7 @@ PORTFOLIO<br>https://ststas.github.io</br>
 
 - 🌱 Currently learning Node.js & Express.
 
-- ⚡ Fun facts about me: <br>In the past teacher of math, cook at Michelin star restaurant and dj :)</br>
+- ⚡ Fun facts about me: <br>In the past: I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
 
 ### Don't hesitate to contact me on 
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>

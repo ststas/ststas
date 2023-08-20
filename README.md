@@ -2,7 +2,7 @@
 
 ### Studying at Yandex Practicum.
 
-### PORTFOLIO
+### Portfolio 
 #### https://ststas.github.io
 
 ### Stack & Tools

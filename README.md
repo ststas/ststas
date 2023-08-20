@@ -18,10 +18,10 @@
 
 ### Here's a short list I've done so far:
 
-HTML & CSS<br></br>
+HTML & CSS<br>
 https://github.com/ststas/littlefatboy
 https://github.com/ststas/russian-trave
-https://github.com/ststas/how-to-learn-addons
+https://github.com/ststas/how-to-learn-addons</br>
 
 JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 

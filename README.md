@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Stanislav Zaitsev. Web Developer.
 
-### Studying at Yandex Practicum.
+Studying at Yandex Practicum.<br>
+🌱 Currently learning Node.js & Express.
+⚡ Fun facts about me: <br>In the past: I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
 
 ### Portfolio 
 https://ststas.github.io
@@ -31,10 +33,6 @@ NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
 
 BOOTSTRAP<br>
 https://github.com/ststas/bootstrap-test
-
-- 🌱 Currently learning Node.js & Express.
-
-- ⚡ Fun facts about me: <br>In the past: I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
 
 ### Don't hesitate to contact me on 
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>

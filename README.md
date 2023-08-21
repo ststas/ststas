@@ -3,7 +3,8 @@
 Studying at Yandex Practicum.<br>
 
 🌱 Currently learning Node.js & Express.<br>
-⚡ Fun facts about me: <br>In the past I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
+
+⚡ Fun facts about me: in the past I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
 
 ### Portfolio 
 https://ststas.github.io

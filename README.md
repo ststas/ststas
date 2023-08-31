@@ -4,7 +4,7 @@ Studying at Yandex Practicum.<br>
 
 🌱 Currently learning Node.js & Express.<br>
 
-⚡ Fun facts about me: in the past I was a teacher of math, a cook at Michelin star restaurant and a super-star dj :)</br>
+⚡ Fun facts about me: in the past I was a teacher of maths, a cook at Michelin star restaurant and a super-star dj :)</br>
 
 ### Portfolio 
 https://ststas.github.io
@@ -32,6 +32,8 @@ JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
 REACT<br>https://github.com/ststas/react-mesto-auth</br>
 
 NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
+
+FULL STACK<br>https://github.com/ststas/react-mesto-api-full-gha</br>
 
 BOOTSTRAP<br>
 https://github.com/ststas/bootstrap-test

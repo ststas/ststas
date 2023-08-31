@@ -15,7 +15,7 @@ https://ststas.github.io
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://github.com/ststas/ststas/blob/main/javascript-logo.png" width="40" height="40"></a>
 <a href="https://react.dev/"><img src="https://github.com/ststas/ststas/blob/main/React-icon.svg" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/docs"><img src="https://github.com/ststas/ststas/blob/main/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"></a>
-<a href="https://docs.npmjs.com/about-npm"><img src="https://github.com/ststas/ststas/blob/main/npm-logo.png" width="40" height="40"></a>
+<a href="https://expressjs.com/"><img src="https://github.com/ststas/ststas/blob/main/icon-express.png" width="40" height="40"></a>
 <a href="https://webpack.js.org/"><img src="https://github.com/ststas/ststas/blob/main/webpack-icon.svg" width="40" height="40"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ststas&layout=compact)](https://github.com/ststas)

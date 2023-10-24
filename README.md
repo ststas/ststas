@@ -22,13 +22,13 @@ https://ststas.github.io
 
 ### Here's a short list I've done so far:
 
-FULL STACK (REACT.JS & EXPRESS.JS)
+FULL STACK (REACT.js & EXPRESS.js)
 <br>https://github.com/ststas/react-mesto-api-full-gha<br>
 https://github.com/ststas/movies-explorer
 
-REAC.JS<br>https://github.com/ststas/react-mesto-auth
+REACT.js<br>https://github.com/ststas/react-mesto-auth
 
-NODE.JS & EXPRESS.JS<br>https://github.com/ststas/express-mesto-gha
+NODE.js & EXPRESS.js<br>https://github.com/ststas/express-mesto-gha
 
 JAVASCRIPT<br>https://github.com/ststas/mesto<br>
 https://github.com/sweezi19/wartime/tree/new-version

@@ -22,21 +22,23 @@ https://ststas.github.io
 
 ### Here's a short list I've done so far:
 
-HTML & CSS<br>
-https://github.com/ststas/littlefatboy<br>
-https://github.com/ststas/russian-travel<br>
-https://github.com/ststas/how-to-learn-addons
-
-JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
+FULL STACK (REACT & EXPRESS)<br>https://github.com/ststas/react-mesto-api-full-gha</br>
+<br>https://github.com/ststas/movies-explorer</br>
 
 REACT<br>https://github.com/ststas/react-mesto-auth</br>
 
 NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
 
-FULL STACK<br>https://github.com/ststas/react-mesto-api-full-gha</br>
+JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
+<br>https://github.com/sweezi19/wartime/tree/new-version</br>
 
 BOOTSTRAP<br>
 https://github.com/ststas/bootstrap-test
+
+HTML & CSS<br>
+https://github.com/ststas/littlefatboy<br>
+https://github.com/ststas/russian-travel<br>
+https://github.com/ststas/how-to-learn-addons
 
 ### Don't hesitate to contact me on 
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a>

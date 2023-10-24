@@ -22,8 +22,9 @@ https://ststas.github.io
 
 ### Here's a short list I've done so far:
 
-FULL STACK (REACT & EXPRESS)<br>https://github.com/ststas/react-mesto-api-full-gha</br>
-<br>https://github.com/ststas/movies-explorer</br>
+FULL STACK (REACT & EXPRESS)
+<br>https://github.com/ststas/react-mesto-api-full-gha
+https://github.com/ststas/movies-explorer</br>
 
 REACT<br>https://github.com/ststas/react-mesto-auth</br>
 

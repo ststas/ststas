@@ -2,7 +2,7 @@
 
 Studying at Yandex Practicum.<br>
 
-🌱 Currently learning Node.js & Express.<br>
+🌱 Currently learning TypeScript & VUE.<br>
 
 ⚡ Fun facts about me: in the past I was a teacher of maths, a cook at Michelin star restaurant and a super-star dj :)</br>
 

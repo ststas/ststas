@@ -24,14 +24,14 @@ https://ststas.github.io
 
 FULL STACK (REACT & EXPRESS)
 <br>https://github.com/ststas/react-mesto-api-full-gha<br>
-https://github.com/ststas/movies-explorer</br>
+https://github.com/ststas/movies-explorer
 
-REACT<br>https://github.com/ststas/react-mesto-auth</br>
+REACT<br>https://github.com/ststas/react-mesto-auth
 
-NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha</br>
+NODE & EXPRESS<br>https://github.com/ststas/express-mesto-gha
 
-JAVA SCRIPT<br>https://github.com/ststas/mesto</br>
-<br>https://github.com/sweezi19/wartime/tree/new-version</br>
+JAVA SCRIPT<br>https://github.com/ststas/mesto<br>
+https://github.com/sweezi19/wartime/tree/new-version
 
 BOOTSTRAP<br>
 https://github.com/ststas/bootstrap-test

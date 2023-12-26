@@ -18,7 +18,7 @@ https://ststas.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ststas&layout=compact)](https://github.com/ststas)
 
-### Here's a short list I've done so far:
+### Here's a short list of works I've done so far:
 
 FULL STACK (React + Express)
 <br>https://github.com/ststas/react-mesto-api-full-gha<br>

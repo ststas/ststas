@@ -24,7 +24,10 @@ FULL STACK (React + Express)
 <br>https://github.com/ststas/react-mesto-api-full-gha<br>
 https://github.com/ststas/movies-explorer
 
-React + TypeScript 
+React + TypeScript + Express
+<br>https://github.com/ststas/todolist<br>
+
+React + TypeScript
 <br>https://github.com/ststas/table<br>
 
 React<br>https://github.com/ststas/react-mesto-auth

@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stanislav Zaitsev. Web Developer.
 
-Studying at Yandex Practicum.<br>
+Graduated from Yandex Practicum.<br>
 
 🌱 Currently learning TypeScript & VUE.<br>
 

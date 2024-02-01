@@ -2,7 +2,7 @@
 
 Graduated from Yandex Practicum.<br>
 
-🌱 Currently learning TypeScript & VUE.<br>
+🌱 Currently learning TypeScript, GraphQL, Redux.<br>
 
 ### Portfolio 
 https://ststas.github.io

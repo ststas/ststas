@@ -5,7 +5,7 @@ Graduated from Yandex Practicum.<br>
 🌱 Currently learning Next.js.<br>
 
 ### Portfolio 
-https://ststas.github.io
+https://ststas.dev
 
 ### Stack & Tools
 <a href="https://www.w3.org/html/"><img src="https://github.com/ststas/ststas/blob/main/HTML5.svg" width="40" height="40"></a>
@@ -20,30 +20,29 @@ https://ststas.github.io
 
 ### Here's a short list of works I've done so far:
 
-FULL STACK (React + Express)
-<br>https://github.com/ststas/react-mesto-api-full-gha<br>
-https://github.com/ststas/movies-explorer
+Portfolio (Next.js + Tailwind + GHA)
+<br>https://github.com/ststas/portfolio<br>
 
-React + TypeScript + Express
+StoryBook + VISX (React + VISX + Docker + GHA)
+<br>https://github.com/ststas/portfolio<br>
+
+Movies Explorer (Full Stack: React + Express + Docker + GHA)
+<br>https://github.com/ststas/movies-explorer<br>
+
+TodoList (Full Stack: React + TypeScript + Express + Docker + GHA)
 <br>https://github.com/ststas/todolist<br>
 
-React + TypeScript
+Mesto (Full Stack: React + Docker + GHA)
 <br>https://github.com/ststas/table<br>
 
-React<br>https://github.com/ststas/react-mesto-auth
+Node + Express
+<br>https://github.com/ststas/express-mesto-gha
 
-Node + Express<br>https://github.com/ststas/express-mesto-gha
+JavaScript
+<br>https://github.com/sweezi19/wartime/tree/new-version<br>
 
-JavaScript<br>https://github.com/ststas/mesto<br>
-https://github.com/sweezi19/wartime/tree/new-version
-
-Bootstrap<br>
-https://github.com/ststas/bootstrap-test
-
-HTML & CSS<br>
-https://github.com/ststas/littlefatboy<br>
-https://github.com/ststas/russian-travel<br>
-https://github.com/ststas/how-to-learn-addons
+HTML & CSS
+<br>https://github.com/ststas/littlefatboy<br>
 
 ### Don't hesitate to contact me on 
 <a href="https://www.linkedin.com/in/stanislav-zaytsev-22401322a"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"></a> 

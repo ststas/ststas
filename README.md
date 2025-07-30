@@ -32,6 +32,9 @@ Movies Explorer (Full Stack: React + Express + Docker + GHA)
 TodoList (Full Stack: React + TypeScript + Express + Docker + GHA)
 <br>https://github.com/ststas/todolist<br>
 
+Kill The Expert Game (React)
+<br>https://github.com/ststas/killtheexpert<br>
+
 Mesto (Full Stack: React + Docker + GHA)
 <br>https://github.com/ststas/table<br>
 

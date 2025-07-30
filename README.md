@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Stanislav Zaitsev. Web Developer.
+## Hi there 👋 I'm Stanislav Zaitsev. Frontend Developer.
 
 Graduated from Yandex Practicum.<br>
 

@@ -24,7 +24,7 @@ Portfolio (Next.js + Tailwind + GHA)
 <br>https://github.com/ststas/portfolio<br>
 
 StoryBook + VISX (React + VISX + Docker + GHA)
-<br>https://github.com/ststas/portfolio<br>
+<br>https://github.com/ststas/storybook<br>
 
 Movies Explorer (Full Stack: React + Express + Docker + GHA)
 <br>https://github.com/ststas/movies-explorer<br>

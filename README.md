@@ -18,7 +18,7 @@ https://ststas.dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ststas&layout=compact)](https://github.com/ststas)
 
-### Here's a short list of works I've done so far:
+### Here's some works I've done so far:
 
 Portfolio (Next.js + Tailwind + GHA)
 <br>https://github.com/ststas/portfolio<br>
